@@ -12,4 +12,4 @@ function lexPls(code) {
     console.log(code)
 }
 
-export { tbTypes, lexPls }
+export { tbTypes, lexPls}
