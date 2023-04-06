@@ -1,0 +1,23 @@
+{
+  "name": "toobored",
+  "version": "1.0.0",
+  "description": "im bored",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kernelk14/toobored.git"
+  },
+  "keywords": [
+    "programming-language"
+  ],
+  "author": "kernelk14",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kernelk14/toobored/issues"
+  },
+  "homepage": "https://github.com/kernelk14/toobored#readme"
+}
